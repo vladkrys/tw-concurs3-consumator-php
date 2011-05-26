@@ -8,18 +8,18 @@
 
          --> fisier PHP unde se depune cererea utilizatorului
          --> cererea reprezinta un nume de student de forma (Nume Prenume)
-         --> locatie web : "http://students.info.uaic.ro/~vlad.cristea/tw/php_client.php"
+         --> locatie web : http://students.info.uaic.ro/~vlad.cristea/tw/php_client.php
     
 -->  response.php
         
          --> fisier PHP unde se primeste raspunsul in urma cererii efectuate de utilizator
          --> raspunsul reprezinta interogarea fisierului CSV filtrat cu informatiile din cerirea clientului
-         --> locatie web : "http://students.info.uaic.ro/~vlad.cristea/tw/request.css"
+         --> locatie web : http://students.info.uaic.ro/~vlad.cristea/tw/request.css
          
 -->  request.css
         
         --> fisier CSS pentru definirea aspectului site-ului
-        --> locatie web : "http://students.info.uaic.ro/~vlad.cristea/tw/response.php"
+        --> locatie web : http://students.info.uaic.ro/~vlad.cristea/tw/response.php
         
 ********
 *HOW*TO*        
