@@ -25,7 +25,7 @@
 *HOW*TO*        
 ********
 
-1.clientul intra pe site-ul : "http://students.info.uaic.ro/~vlad.cristea/tw/php_client.php"
+1.clientul intra pe site-ul : http://students.info.uaic.ro/~vlad.cristea/tw/php_client.php
 2.creeaza o cerere:
     2.1. introduce un nume de student de forma ( Nume Prenume)
     2.1. se valideaza cererea in momentul in care se apasa pe butonul "Cauta"
